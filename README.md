@@ -1,5 +1,5 @@
 # TM_hw
-## **Ice cream shop**
+## 🍨**Ice cream shop**🍦
 ### usage: information about ice cream shop
 #### `author: Toby`
 
