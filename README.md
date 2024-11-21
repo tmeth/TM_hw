@@ -1,7 +1,8 @@
 # TM_hw
 ## 🍨**Ice cream shop**🍦
-### usage: information about ice cream shop
-#### `author: Toby`
+### usage: changes to readME
+#### readMe contains information about the shop in general
+##### `author: Toby`
 
 - $flavors$
 - $cones$
