@@ -1,0 +1,33 @@
+h1{
+    color:rgb(41, 0, 128)
+   
+}
+h2{
+    color:rgb(0, 217, 255);
+}
+
+
+h1,h2{
+    font-family: calibri;
+}
+.myList1{
+    color:rgba(4, 44, 44, 0.868);
+}
+.myList2{
+    color:rgba(8, 130, 130, 0.781);
+    
+}
+.myList3{
+    color:rgba(0, 255, 255, 0.457);
+    
+}
+
+ul:hover{
+    cursor: pointer;
+}
+div{
+    border:dotted;
+    text-align: center;
+    padding:30px;
+    background-image: linear-gradient(rgb(0, 217, 255), rgb(41, 0, 128));
+}
