@@ -1,0 +1,1 @@
+project holds information for ice cream shop
