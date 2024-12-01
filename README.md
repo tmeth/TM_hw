@@ -8,4 +8,5 @@
 - $toppings$
 ![alt](https://github.com/tmeth/TM_hw/blob/main/ice%20cream.jpg?raw=true)
 
-update to main
+`Come visit us at 1234 Ice Cream Way`
+add flavors
