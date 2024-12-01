@@ -8,4 +8,4 @@
 - $toppings$
 ![alt](https://github.com/tmeth/TM_hw/blob/main/ice%20cream.jpg?raw=true)
 
-update to main
+new flavors available! chack out our options!
