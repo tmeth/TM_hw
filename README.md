@@ -8,4 +8,4 @@
 - $toppings$
 ![alt](https://github.com/tmeth/TM_hw/blob/main/ice%20cream.jpg?raw=true)
 
-new flavors available! check out our options!
+Come visit us at 1234 Ice Cream Way
