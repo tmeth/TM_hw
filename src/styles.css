@@ -31,3 +31,15 @@ div{
     padding:30px;
     background-image: linear-gradient(rgb(0, 217, 255), rgb(41, 0, 128));
 }
+table{
+    border:solid 1pt, rgb(0, 128, 255);
+    border-collapse: collapse;
+}
+td{
+    border:solid 1pt, rgb(0, 128, 255);
+    padding: 10pt;
+}
+th{
+    border:solid 1pt,rgb(0, 128, 255);
+    padding: 5pt;
+}
