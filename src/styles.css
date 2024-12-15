@@ -40,6 +40,10 @@ td{
     padding: 10pt;
 }
 th{
+<<<<<<< HEAD
     border:solid 1pt,rgb(0, 128, 255);
+=======
+    border:solide 1pt,rgb(0, 128, 255);
+>>>>>>> flavors
     padding: 5pt;
 }
