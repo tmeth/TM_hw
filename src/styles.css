@@ -25,6 +25,12 @@ h1,h2{
 ul:hover{
     cursor: pointer;
 }
+ul{
+    display: grid;
+}
+ol{
+    display: flex;
+}
 div{
     border:dotted;
     text-align: center;
@@ -40,6 +46,17 @@ td{
     padding: 10pt;
 }
 th{
-    border:solide 1pt,rgb(0, 128, 255);
+    border:solid 1pt,rgb(0, 128, 255);
     padding: 5pt;
+}
+@media screen and (max-width:480px) {
+    h1{
+        color:palevioletred;
+    }
+}
+
+@media screen and (max-width:230px) {
+    h1{
+        color:yellow;
+    }
 }
